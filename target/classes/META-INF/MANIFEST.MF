@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Dell
+Build-Jdk: 16.0.1
+Implementation-Title: spring-boot-first-web-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.in28minutes.springboot.web
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot-f
+ irst-web-application-git
+Created-By: Maven Integration for Eclipse
+
